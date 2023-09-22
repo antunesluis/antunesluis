@@ -1,4 +1,4 @@
-<!--cnt views-->
+ <!--cnt views-->
 <p align="right">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fantunesluis"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fantunesluis&label=Profile%20Views&labelColor=%23BDB76B&countColor=%23D2691E&style=flat" /></a>
 </p>
@@ -7,33 +7,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Luis+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Luis Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-##
-<div align="right">
-  <img width="49%" height="195px" src="github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
-</div>div>
- 
 <!--tech stack icons-->
-<div align="left">
-  <div id="user-content-toc">
-    <ul align="left">
-      <summary><h2 style="display: inline-block">Languages and Tools</h2></summary>
-    </ul>
-  </div>
-  
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages and Tools</h2></summary>
+  </ul>
+</div>
+
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,python,vscode&perline=13" />
   </a>
+</p>
 
 <!-- Contacts -->
-  <div id="user-content-toc">
-    <ul align="left">
-      <summary><h2 style="display: inline-block">Contacts</h2></summary>
-    </ul>
-  </div>
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisantunesss/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfantunes@inf.ufsm.br) 
-    
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contacts</h2></summary>
+  </ul>
 </div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisantunesss/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfantunes@inf.ufsm.br) 
 
 ##
 
