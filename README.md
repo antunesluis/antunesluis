@@ -23,5 +23,5 @@
 
 <div align="center">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&hide_border=true&locale=en&theme=gruvbox&background=0d1117&bg_color=00000000" alt="Luis Antunes github stats" /> 
- <img width="%" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&theme=gruvbox&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000" />
+ <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&theme=gruvbox&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000" />
 </div>
