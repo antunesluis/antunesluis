@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,python,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode&perline=13" />
   </a>
 </p>
 
