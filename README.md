@@ -4,18 +4,25 @@
 
 # Olá!
 
+<!--tech stack icons-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages and Tools</h2></summary>
+  </ul>
+</div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,python,vscode&perline=13" />
+  </a>
+</p>
 
-### • Languages and Tools
-
-<div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div><br/>
-
-
-
-### • Contacts 
+<!-- Contacts -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contacts</h2></summary>
+  </ul>
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisantunesss/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfantunes@inf.ufsm.br) 
 
