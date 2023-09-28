@@ -9,19 +9,6 @@
 
 ##
 
-<!--tech stack icons-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Languages and Tools</h2></summary>
-  </ul>
-</div>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode&perline=13" />
-  </a>
-</p>
-
 <!-- Contacts -->
 <div id="user-content-toc">
   <ul align="center">
@@ -30,6 +17,25 @@
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisantunesss/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfantunes@inf.ufsm.br) 
+
+##
+
+<!--tech stack icons-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages and Tools</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode&perline=13" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&hide_border=true&title_color=DAA520&icon_color=CD853F&text_color=BDB76B&bg_color=0d1117" height="160" />
+</div>
 
 ##
 
