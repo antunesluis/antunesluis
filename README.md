@@ -33,18 +33,7 @@
 
 ##
 
-
-
-##
-
-<!-- stats -->
-<div aligdn="center">
- <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&hide_border=true&title_color=DAA520&icon_color=CD853F&text_color=BDB76B&bg_color=0d1117" alt="Luis Antunes github stats" /> 
- <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=antunesluis&show_icons=true&hide_border=true&locale=en&layout=compact&title_color=BDB76B&icon_color=BDB76B&text_color=BDB76B&bg_color=BDB76B&ring=DAA520&fire=D2691E&currStreakLabel=CD853F&currStreakNum=BDB76B&sideNums=BDB76B&sideLabels=CD853F&background=0d1117&dates=BDB76B" />
-ve</div>v
-
-
 <p align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&hide_border=true&title_color=DAA520&icon_color=CD853F&text_color=BDB76B&bg_color=0d1117" alt="Luis Antunes github stats"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&hide_border=true&title_color=DAA520&icon_color=CD853F&text_color=BDB76B&bg_color=0d1117" height="160" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&hide_border=true&title_color=DAA520&icon_color=CD853F&text_color=BDB76B&bg_color=0d1117" alt="Luis Antunes github stats"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&hide_border=true&title_color=DAA520&icon_color=CD853F&text_color=BDB76B&bg_color=0d1117" alt="Most Used Languages"/>
 </p>
