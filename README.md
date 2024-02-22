@@ -11,11 +11,11 @@
 <!--tech stack icons-->
 ### Language and Tools:
 
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,go,neovim,vscode,linux,git&perline=13" />
   </a>
-</p>
+</div>
 
 <!-- Contacts -->
 ### Contacts:
