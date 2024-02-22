@@ -4,13 +4,13 @@
 </p>
 
 <!--I am luis-->
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Luis+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Luis Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
-
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!" alt="Typing SVG" /></a> 
+</div>
 ##
 
 <!--tech stack icons-->
-### Language and Tools
+### Language and Tools:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 </p>
 
 <!-- Contacts -->
-### Contacts
+### Contacts:
 
 <div>
   <a href="https://www.instagram.com/luisantunesss/">
