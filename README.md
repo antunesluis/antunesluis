@@ -10,11 +10,7 @@
 ##
 
 <!--tech stack icons-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Languages and Tools</h2></summary>
-  </ul>
-</div>
+## Language and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -23,11 +19,7 @@
 </p>
 
 <!-- Contacts -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contacts</h2></summary>
-  </ul>
-</div>
+## Contacts
 
 <div>
   <a href="https://www.instagram.com/luisantunesss/">
