@@ -10,7 +10,7 @@
 ##
 
 <!--tech stack icons-->
-## Language and Tools
+### Language and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 </p>
 
 <!-- Contacts -->
-## Contacts
+### Contacts
 
 <div>
   <a href="https://www.instagram.com/luisantunesss/">
