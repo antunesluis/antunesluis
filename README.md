@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,go,neovim,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,c,go,neovim,vscode,linux,git&perline=13" />
   </a>
 </p>
 
