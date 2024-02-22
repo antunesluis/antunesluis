@@ -1,12 +1,11 @@
  <!--cnt views-->
-<p align="right">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fantunesluis"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fantunesluis&label=Profile%20Views&labelColor=%23BDB76B&countColor=%23D2691E&style=flat" /></a>
-</p>
+
 
 <!--I am luis-->
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!" alt="Typing SVG" /></a> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&random=false&width=435&lines=Welcome+to+my+Profile!" alt="Typing SVG" /></a> 
 </div>
+
 ##
 
 <!--tech stack icons-->
