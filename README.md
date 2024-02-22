@@ -3,7 +3,7 @@
 
 <!--I am luis-->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&random=false&width=435&lines=I'm+Luis%2C+welcome+to+my+Profile!" alt="Typing SVG" /></a> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&random=false&width=435&lines=Hey%2C+I'm+Luis+Welcome+to+my+Profile!" alt="Typing SVG" /></a> 
 </div>
 
 ##
