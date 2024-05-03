@@ -1,31 +1,9 @@
- <!--cnt views-->
-
-
-<!--I am luis-->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=4&size=22&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=I'm+Luis%2C+Welcome+to+my+Profile!" alt="Typing SVG" /></a>  
-</div>
-
-##
-
 <!--tech stack icons-->
-### Language and Tools:
+### Languages and Tools:
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,go,neovim,vscode,linux,git&perline=13" />
-  </a>
-</div>
-
-<!-- Contacts -->
-### Contacts:
-
-<div align="left">
-  <a href="https://www.instagram.com/luisantunesss/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:lfantunes@inf.ufsm.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
