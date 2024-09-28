@@ -1,6 +1,6 @@
-<h1>Hi, there! :)</h1>
+<h1>Hi, there!</h1>
 
-<p>I'm Luis Fernando da Cruz Antunes, an aspiring full-stack developer and Computer Science student. I'm currently pursuing my degree at the Federal University of Santa Maria (UFSM), Rio Grande do Sul, Brazil.</p>
+<p>I'm Luis Fernando, an aspiring full-stack developer and Computer Science student. I'm currently pursuing my degree at the Federal University of Santa Maria (UFSM), Rio Grande do Sul, Brazil.</p>
 
 <h2>Stack and Tools</h2>
 
