@@ -2,7 +2,7 @@
 
 <p>I'm Luis Fernando, an aspiring full-stack developer and Computer Science student. I'm currently pursuing my degree at the Federal University of Santa Maria (UFSM), Rio Grande do Sul, Brazil.</p>
 
-[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg">](https://antunesluis.vercel.app/)
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg">](https://antunesluis.com.br/)
 
 <h2>Stack and Tools</h2>
 
