@@ -1,31 +1,36 @@
-<h1>Hi, there!</h1>
+<h1 align="center">Hello! I'm Luis</h1>
 
-<p>I'm Luis Fernando, an aspiring full-stack developer and Computer Science student. I'm currently pursuing my degree at the Federal University of Santa Maria (UFSM), Rio Grande do Sul, Brazil.</p>
+<p>
+    I'm a Computer Science student at the Federal University of Santa Maria (UFSM), Brazil, exploring web development and software engineering.
+</p>
 
-[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg">](https://antunesluis.com.br/)
+<p>
+  You can find my projects, blog posts, and résumé on <a href="https://antunesluis.com.br/">antunesluis.com.br</a>.
+</p>
 
-<h2>Stack and Tools</h2>
+<h2>Stack & Tools</h3>
 
-<div align="center">
-  <img align="center" alt="Luis-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Luis-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Luis-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Luis-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luis-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Luis-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Luis-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Luis-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Luis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Luis-Neovim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
-</div>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40"/>
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" height="40"/>
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring" height="40"/>
+  <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="40"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40"/>
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" height="40"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40"/>
+  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40"/>
+</p>
 
 <h2>GitHub Stats</h2>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light" alt="Most Used Languages"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light" alt="Luis Antunes GitHub stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light&hide_border=true&langs_count=6" height="150" alt="Top languages"/>
+</p>
