@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Luis</h1>
+<h1>Hello! I'm Luis</h1>
 
 <p>
     I'm a Computer Science student at the Federal University of Santa Maria (UFSM), Brazil, exploring web development and software engineering.
@@ -18,7 +18,6 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="40"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40"/>
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" height="40"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" height="40"/>
@@ -31,6 +30,6 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light&hide_border=true&langs_count=6" height="180" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light&hide_border=true&langs_count=6" height="160" alt="Top languages"/>
 </p>
