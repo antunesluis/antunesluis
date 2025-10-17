@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  You can find my projects, blog posts, and résumé on <a href="https://antunesluis.com.br/">antunesluis.com.br</a>.
+  You can find my projects, blog posts, and resume on <a href="https://antunesluis.com.br/">antunesluis.com.br</a>.
 </p>
 
 <h2>Stack & Tools</h3>
