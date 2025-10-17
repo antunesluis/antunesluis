@@ -31,6 +31,6 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light&hide_border=true&langs_count=6" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light&hide_border=true&langs_count=6" height="180" alt="Top languages"/>
 </p>
