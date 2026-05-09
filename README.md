@@ -40,9 +40,9 @@
   <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40"/>
 </p>
 
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light&hide_border=true&langs_count=6" height="160" alt="Top languages"/>
-</p>
+<!-- <h2>GitHub Stats</h2> -->
+<!---->
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=antunesluis&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" height="160" alt="GitHub stats"/> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesluis&layout=compact&count_private=true&theme=solarized-light&hide_border=true&langs_count=6" height="160" alt="Top languages"/> -->
+<!-- </p> -->
